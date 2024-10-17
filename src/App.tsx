@@ -1,5 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import PokemonList from './components/PokemonList';
+import PokemonDetails from './components/PokemonData';
 
 function App() {
   return (
