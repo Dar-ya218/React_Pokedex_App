@@ -33,29 +33,14 @@ cd my-pokemon-app
 
 ``` npm run build:css ```
 
-## Project Structure
-
-my-pokemon-app/
-├── src/
-│   ├── components/
-│   │   ├── PokemonList.tsx
-│   │   ├── PokemonData.tsx
-│   │   └── ... (other components)
-│   ├── index.css
-│   ├── App.tsx
-│   └── ... (other files)
-├── public/
-│   └── index.html
-├── dist/
-│   └── styles.css
-├── tailwind.config.js
-├── postcss.config.js
-├── tsconfig.json
-├── package.json
-└── README.md
+![alt text](./src/assets/screenshot.png)
 
 ## Usage
 
 Browse Pokémon: Navigate to the home page to see a list of Pokémon. Use the pagination buttons to navigate through different pages.
 
 View Details: Click on a Pokémon to view its details, including its abilities and other information.
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
