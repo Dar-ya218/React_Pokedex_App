@@ -5,6 +5,7 @@ Features
 Browse Pokémon: View a list of Pokémon with pagination.
 View Details: Click on a Pokémon to view detailed information about it.
 Responsive Design: The application is designed to be responsive and works well on both desktop and mobile devices.
+
 Technologies Used
 React: A JavaScript library for building user interfaces.
 React Router: For handling routing within the application.
@@ -12,4 +13,20 @@ Tailwind CSS: A utility-first CSS framework for styling.
 PokeAPI: An API to fetch Pokémon data.
 TypeScript: A typed superset of JavaScript that compiles to plain JavaScript.
 Installation
-Clone the repository:
+
+1. Clone the repository:
+
+git clone https://github.com/your-username/my-pokemon-app.git
+cd my-pokemon-app
+
+2. Install dependencies:
+
+npm install
+
+3. Run the development server:
+
+npm run dev
+
+4. Build the CSS:
+
+npm run build:css
