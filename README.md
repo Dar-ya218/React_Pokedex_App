@@ -1,18 +1,23 @@
-# My Pokemon App
-My Pokemon App is a React-based web application that allows users to browse and view details of various Pokémon. The application leverages the PokeAPI to fetch Pokémon data and displays it in a user-friendly interface with pagination and detailed views for each Pokémon.
-
+# React Pokedex App
+React Pokedex App is a web application built with React and TypeScript, allowing users to browse and explore details of various Pokémon. The app fetches data from the PokeAPI and presents it in a responsive, user-friendly interface.
 ## Features
-Browse Pokémon: View a list of Pokémon with pagination.
-View Details: Click on a Pokémon to view detailed information about it.
-Responsive Design: The application is designed to be responsive and works well on both desktop and mobile devices.
+* Browse Pokémon:  View a paginated list of Pokémon.
+
+* View Details: Click on a Pokémon to view detailed stats and abilities.
+
+* Responsive Design: Optimized for both desktop and mobile devices.
 
 ## Technologies Used
-React: A JavaScript library for building user interfaces.
-React Router: For handling routing within the application.
-Tailwind CSS: A utility-first CSS framework for styling.
-PokeAPI: An API to fetch Pokémon data.
-TypeScript: A typed superset of JavaScript that compiles to plain JavaScript.
-Installation
+
+* Frontend: React, TypeScript, React Router
+
+* API: PokeAPI
+
+* Styling: Tailwind CSS
+
+* Build Tools: Vite
+
+## Installation
 
 1. Clone the repository:
 
@@ -37,9 +42,9 @@ cd my-pokemon-app
 
 ## Usage
 
-Browse Pokémon: Navigate to the home page to see a list of Pokémon. Use the pagination buttons to navigate through different pages.
+* Browse Pokémon: Navigate to the home page to see a list of Pokémon. Use the pagination buttons to navigate through different pages.
 
-View Details: Click on a Pokémon to view its details, including its abilities and other information.
+* View Details: Click on a Pokémon to view its details, including its abilities and other information.
 
 ## Contributing
 
