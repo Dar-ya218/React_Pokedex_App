@@ -38,14 +38,17 @@ cd my-pokemon-app
 
 ``` npm run build:css ```
 
-![alt text](./src/assets/screenshot.png)
 
 ## Usage
 
-* Browse Pokémon: Navigate to the home page to see a list of Pokémon. Use the pagination buttons to navigate through different pages.
+* Browse Pokémon: Navigate through the home page and use the pagination buttons to explore different Pokémon.
 
-* View Details: Click on a Pokémon to view its details, including its abilities and other information.
+* View Details: Click on a Pokémon to see its stats, abilities, and more.
+
+## Screenshot
+
+![alt text](./src/assets/screenshot.png)
 
 ## Contributing
 
-Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
+Contributions are welcome! Please fork the repository and submit a pull request for any improvements.
