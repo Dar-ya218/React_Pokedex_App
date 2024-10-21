@@ -1,21 +1,21 @@
 # React Pokedex App
 React Pokedex App is a web application built with React and TypeScript, allowing users to browse and explore details of various Pokémon. The app fetches data from the PokeAPI and presents it in a responsive, user-friendly interface.
 ## Features
-* Browse Pokémon:  View a paginated list of Pokémon.
+* __Browse Pokémon__:  View a paginated list of Pokémon.
 
-* View Details: Click on a Pokémon to view detailed stats and abilities.
+* __View Details__: Click on a Pokémon to view detailed stats and abilities.
 
-* Responsive Design: Optimized for both desktop and mobile devices.
+* __Responsive Design__: Optimized for both desktop and mobile devices.
 
 ## Technologies Used
 
-* Frontend: React, TypeScript, React Router
+* __Frontend: React__, TypeScript, React Router
 
-* API: PokeAPI
+* __API__: PokeAPI
 
-* Styling: Tailwind CSS
+* __Styling__: Tailwind CSS
 
-* Build Tools: Vite
+* __Build Tools__: Vite
 
 ## Installation
 
@@ -41,9 +41,9 @@ cd my-pokemon-app
 
 ## Usage
 
-* Browse Pokémon: Navigate through the home page and use the pagination buttons to explore different Pokémon.
+* __Browse Pokémon__: Navigate through the home page and use the pagination buttons to explore different Pokémon.
 
-* View Details: Click on a Pokémon to see its stats, abilities, and more.
+* __View Details__: Click on a Pokémon to see its stats, abilities, and more.
 
 ## Screenshot
 
