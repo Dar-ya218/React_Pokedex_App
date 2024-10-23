@@ -7,7 +7,6 @@ function App() {
   return (
     <Router>
       <div className="min-h-screen bg-gray-100">
-        <h1>Pokemons</h1>
         <Routes>
           <Route path="/" element={<PokemonList />} />
           <Route path="/pokemon/:id" element={<PokemonDetails />} />
