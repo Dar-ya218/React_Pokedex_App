@@ -1,18 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { ArrowLeft } from 'lucide-react';
-
-interface PokemonDetails {
-  id: number;
-  name: string;
-  abilities: { ability: { name: string } }[];
-  types: { type: { name: string } }[];
-  height: number;
-  weight: number;
-  sprites: {
-    front_default: string;
-  };
-}
+import { type PokemonDetails } from '../types/pokemonDetails';
 
 const PokemonDetails: React.FC = () => {
   const { id } = useParams<{ id: string }>();
