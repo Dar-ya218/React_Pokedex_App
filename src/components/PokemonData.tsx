@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { ArrowLeft } from 'lucide-react';
-import { type PokemonDetails } from '../types/pokemonDetails';
+import { type PokemonDetails } from '@/types/pokemonDetails';
 
 const PokemonDetails: React.FC = () => {
   const { id } = useParams<{ id: string }>();
